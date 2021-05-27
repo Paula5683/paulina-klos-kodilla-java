@@ -19,7 +19,7 @@ public class FirstChallenge {
             System.out.println("Nie dziel przez zero");
         }
         finally{
-            System.out.println("Koniec działania");
+            System.out.println("Koniec");
         }
 
     }
